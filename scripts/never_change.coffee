@@ -1,8 +1,8 @@
 # Description:
-#   When you need that someone to celebrate with
+#   When hubot nails it, tell him never to change
 #
 # Commands:
-#   high five - Hubot is there for you!
+#   never change - Hubot appreciates it!
 
 module.exports = (robot) ->
   neverChangeReplies = [
