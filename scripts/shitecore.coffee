@@ -4,7 +4,6 @@
 # Commands:
 #   Sitecore - Hubot corrects your error
 
-
 module.exports = (robot) ->
   robot.hear /sitecore/i, (msg) ->
     shitecore = [
